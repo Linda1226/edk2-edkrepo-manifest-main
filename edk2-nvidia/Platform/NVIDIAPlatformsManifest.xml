@@ -29,12 +29,12 @@
 
   <RemoteList>
     <!-- The 'name' attribute for each Remote tag must be unique. -->
-    <Remote name="Edk2Repo">https://hub.fgit.cf/NVIDIA/edk2.git</Remote>
-    <Remote name="Edk2PlatformsRepo">https://hub.fgit.cf/NVIDIA/edk2-platforms.git</Remote>
-    <Remote name="Edk2NonOsiRepo">https://hub.fgit.cf/NVIDIA/edk2-non-osi.git</Remote>
-    <Remote name="Edk2NvidiaRepo">https://hub.fgit.cf/NVIDIA/edk2-nvidia.git</Remote>
-    <Remote name="Edk2NvidiaNonOsiRepo">https://hub.fgit.cf/NVIDIA/edk2-nvidia-non-osi.git</Remote>
-    <Remote name="OpenRmRepo">https://hub.fgit.cf/NVIDIA/open-gpu-kernel-modules.git</Remote>
+    <Remote name="Edk2Repo">https://hub.njuu.cf/NVIDIA/edk2.git</Remote>
+    <Remote name="Edk2PlatformsRepo">https://hub.njuu.cf/NVIDIA/edk2-platforms.git</Remote>
+    <Remote name="Edk2NonOsiRepo">https://hub.njuu.cf/NVIDIA/edk2-non-osi.git</Remote>
+    <Remote name="Edk2NvidiaRepo">https://hub.njuu.cf/NVIDIA/edk2-nvidia.git</Remote>
+    <Remote name="Edk2NvidiaNonOsiRepo">https://hub.njuu.cf/NVIDIA/edk2-nvidia-non-osi.git</Remote>
+    <Remote name="OpenRmRepo">https://hub.njuu.cf/NVIDIA/open-gpu-kernel-modules.git</Remote>
   </RemoteList>
 
   <ClientGitHookList>
